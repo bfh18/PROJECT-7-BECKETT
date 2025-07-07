@@ -1,3 +1,4 @@
+// devcontainer.json
 {
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "customizations": {
